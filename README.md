@@ -4,15 +4,6 @@
 
 ---
 
-## 🧭 About me
-
-- I design and orchestrate **microservices on Kubernetes** with **Docker**, **PostgreSQL**, and **HTTP/gRPC** (and **NATS** when it fits).
-- On the frontend I work with **React (18/19)**, **Next.js**, **TypeScript**, **Tailwind CSS**, **shadcn/ui**, **Radix UI**, **React Hook Form**, and **Zod** for solid UX and reliable validation.
-- CI/CD with **GitLab** (runner on **EC2**), **PM2**, and **Nginx**; deployments to **AWS** and **DigitalOcean**.
-- Prior experience with Java, but I’m **not seeking** Java ecosystem roles — my focus is **TypeScript/Node.js**.
-
----
-
 ## 🚀 What I do
 
 - **API & domain design** aligned with business requirements.
@@ -35,17 +26,9 @@
 ## 🧰 Daily stack
 
 **Backend:** Node.js, TypeScript, NestJS, NATS, gRPC/HTTP, PostgreSQL  
-**Frontend:** React 18/19, Next.js, Tailwind CSS, shadcn/ui, Radix UI, React Hook Form, Zod, Axios  
+**Frontend:** React 18/19, Vue 2/3, Next.js, Tailwind CSS, shadcn/ui, Radix UI, React Hook Form, Zod, Axios  
 **DevOps:** Docker, Kubernetes, Nginx, PM2, GitLab CI/CD (runner on EC2)  
 **Cloud:** AWS, DigitalOcean
-
----
-
-## 📚 Principles
-
-- **Security-by-default** · **Observability** (logs/metrics/traces) · **Clean Code/“DDD-light”**
-- **DX & accessibility** as requirements, not nice-to-haves
-- **Short iterations** with continuous feedback
 
 ---
 
