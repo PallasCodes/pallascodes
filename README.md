@@ -13,16 +13,6 @@
 
 ---
 
-## 🧪 Recent projects & challenges
-
-- **Healthcare appointments SaaS** for multiple professions (doctors, dentists, vets, physios, psychologists): multitenant, scheduling, reminders, and payments.
-- **Google Tasks web replica** with React 18, Tailwind, and shadcn/ui (accessible, performant, clean state patterns).
-- **Bank CLABE validation** (Mexico) with signature handling and robust error management (Axios), production-oriented.
-- **Edicom integrations migration** from **Java EE 8** to **Node.js** (auth, folders, document upload).
-- **Cost-effective deployments** on **DigitalOcean**: NestJS + PostgreSQL with **PM2** and **Nginx**.
-
----
-
 ## 🧰 Daily stack
 
 **Backend:** Node.js, TypeScript, NestJS, NATS, gRPC/HTTP, PostgreSQL  
